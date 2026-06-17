@@ -1,0 +1,22 @@
+FOXPRO DATABASE DISCOVERY REPORT
+================================================================================
+
+Tables Loaded : 7
+Total Rows    : 70
+
+LARGEST TABLES
+--------------------------------------------------------------------------------
+FOXUSER                                      65 rows
+ITEMMAST                                      5 rows
+ITEMS                                         0 rows
+SNDTRN1                                       0 rows
+DTINFO                                        0 rows
+ITSTD1                                        0 rows
+TODOLIST                                      0 rows
+
+CANDIDATE PRIMARY KEYS
+--------------------------------------------------------------------------------
+ITEMMAST: INO, IDESC
+
+TOP RELATIONSHIPS
+--------------------------------------------------------------------------------

@@ -1,0 +1,1 @@
+{"register":[{"instdate":"2024-11-23","ldate":"0001-01-01","version":"08XXXXXXXXXXXXXTXXXXXXXX","amc":"2025-11-23","spoints":"0","ccom":"1","lusers":"0","msg":"OTP is confirmed!","ans":"YYY"}]}

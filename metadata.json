@@ -1,0 +1,3327 @@
+{
+    "scan_info": {
+        "folder": "/Users/gokulgautham/foxconverterAgent/jwerp",
+        "total_files": 548,
+        "dbf_tables_found": 3
+    },
+    "extension_summary": {
+        ".DB": 173,
+        ".D_": 158,
+        ".BAK": 101,
+        ".M_": 15,
+        ".DLL": 11,
+        ".EXE": 10,
+        ".FRT": 9,
+        ".FRX": 9,
+        ".TXT": 8,
+        ".BAC": 7,
+        ".TTF": 6,
+        ".APP": 5,
+        ".ABC": 4,
+        "": 4,
+        ".DB_": 4,
+        ".INI": 3,
+        ".XLSX": 3,
+        ".DBF": 3,
+        ".FPT": 2,
+        ".XLSM": 2,
+        ".SQL": 2,
+        ".LG": 2,
+        ".CB": 2,
+        ".ZIP": 1,
+        ".PRN": 1,
+        ".DCX": 1,
+        ".DBC": 1,
+        ".DCT": 1
+    },
+    "files": [
+        {
+            "name": ".DS_Store",
+            "extension": "",
+            "size_bytes": 8196,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/.DS_Store"
+        },
+        {
+            "name": ".DS_Store",
+            "extension": "",
+            "size_bytes": 10244,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/.DS_Store"
+        },
+        {
+            "name": ".DS_Store",
+            "extension": "",
+            "size_bytes": 8196,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/1001/.DS_Store"
+        },
+        {
+            "name": ".DS_Store",
+            "extension": "",
+            "size_bytes": 8196,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/1001/27.12.24/.DS_Store"
+        },
+        {
+            "name": "_71G141JGC.txt",
+            "extension": ".TXT",
+            "size_bytes": 966,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/_71G141JGC.txt"
+        },
+        {
+            "name": "_7BE0SDMAJ.txt",
+            "extension": ".TXT",
+            "size_bytes": 2247,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/_7BE0SDMAJ.txt"
+        },
+        {
+            "name": "_gstinv.FRT",
+            "extension": ".FRT",
+            "size_bytes": 93952,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/_gstinv.FRT"
+        },
+        {
+            "name": "_gstinv.frx",
+            "extension": ".FRX",
+            "size_bytes": 73916,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/_gstinv.frx"
+        },
+        {
+            "name": "_gstinv2.FRT",
+            "extension": ".FRT",
+            "size_bytes": 82176,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/_gstinv2.FRT"
+        },
+        {
+            "name": "_GSTINV2.FRT",
+            "extension": ".FRT",
+            "size_bytes": 82176,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/_GSTINV2.FRT"
+        },
+        {
+            "name": "_gstinv2.frx",
+            "extension": ".FRX",
+            "size_bytes": 66817,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/_gstinv2.frx"
+        },
+        {
+            "name": "_GSTINV2.FRX",
+            "extension": ".FRX",
+            "size_bytes": 66817,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/_GSTINV2.FRX"
+        },
+        {
+            "name": "_GSTINVx.FRT",
+            "extension": ".FRT",
+            "size_bytes": 92800,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/_GSTINVx.FRT"
+        },
+        {
+            "name": "_GSTINVx.FRX",
+            "extension": ".FRX",
+            "size_bytes": 73916,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/_GSTINVx.FRX"
+        },
+        {
+            "name": "_invcx.FRT",
+            "extension": ".FRT",
+            "size_bytes": 91776,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/_invcx.FRT"
+        },
+        {
+            "name": "_invcx.FRX",
+            "extension": ".FRX",
+            "size_bytes": 70710,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/_invcx.FRX"
+        },
+        {
+            "name": "ACCMAST.BAK",
+            "extension": ".BAK",
+            "size_bytes": 6120,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ACCMAST.BAK"
+        },
+        {
+            "name": "ACCMAST.BAK",
+            "extension": ".BAK",
+            "size_bytes": 419147,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ACCMAST.BAK"
+        },
+        {
+            "name": "accmast.d_",
+            "extension": ".D_",
+            "size_bytes": 384548,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/accmast.d_"
+        },
+        {
+            "name": "ACCMAST.DB",
+            "extension": ".DB",
+            "size_bytes": 660929,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ACCMAST.DB"
+        },
+        {
+            "name": "acrep1.d_",
+            "extension": ".D_",
+            "size_bytes": 1512,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/acrep1.d_"
+        },
+        {
+            "name": "acrep1.db",
+            "extension": ".DB",
+            "size_bytes": 1512,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/acrep1.db"
+        },
+        {
+            "name": "ACTAX.BAK",
+            "extension": ".BAK",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ACTAX.BAK"
+        },
+        {
+            "name": "ACTAX.BAK",
+            "extension": ".BAK",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ACTAX.BAK"
+        },
+        {
+            "name": "actax.d_",
+            "extension": ".D_",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/actax.d_"
+        },
+        {
+            "name": "ACTAX.db",
+            "extension": ".DB",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ACTAX.db"
+        },
+        {
+            "name": "actcsh1.d_",
+            "extension": ".D_",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/actcsh1.d_"
+        },
+        {
+            "name": "actcsh1.db",
+            "extension": ".DB",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/actcsh1.db"
+        },
+        {
+            "name": "alloy.d_",
+            "extension": ".D_",
+            "size_bytes": 680,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/alloy.d_"
+        },
+        {
+            "name": "alloy.db",
+            "extension": ".DB",
+            "size_bytes": 680,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/alloy.db"
+        },
+        {
+            "name": "altecat.sql",
+            "extension": ".SQL",
+            "size_bytes": 23890,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/altecat.sql"
+        },
+        {
+            "name": "attend1.d_",
+            "extension": ".D_",
+            "size_bytes": 1512,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/attend1.d_"
+        },
+        {
+            "name": "attend1.db",
+            "extension": ".DB",
+            "size_bytes": 1512,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/attend1.db"
+        },
+        {
+            "name": "BADLA1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1224,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/BADLA1.BAK"
+        },
+        {
+            "name": "BADLA1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1224,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/BADLA1.BAK"
+        },
+        {
+            "name": "badla1.d_",
+            "extension": ".D_",
+            "size_bytes": 1224,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/badla1.d_"
+        },
+        {
+            "name": "BADLA1.db",
+            "extension": ".DB",
+            "size_bytes": 1224,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/BADLA1.db"
+        },
+        {
+            "name": "BarCodeLibrary.dll",
+            "extension": ".DLL",
+            "size_bytes": 264704,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/BarCodeLibrary.dll"
+        },
+        {
+            "name": "BARNUM1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 936,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/BARNUM1.BAK"
+        },
+        {
+            "name": "BARNUM1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 936,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/BARNUM1.BAK"
+        },
+        {
+            "name": "barnum1.d_",
+            "extension": ".D_",
+            "size_bytes": 936,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/barnum1.d_"
+        },
+        {
+            "name": "BARNUM1.db",
+            "extension": ".DB",
+            "size_bytes": 936,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/BARNUM1.db"
+        },
+        {
+            "name": "BB1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1576,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/BB1.BAK"
+        },
+        {
+            "name": "BB1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1576,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/BB1.BAK"
+        },
+        {
+            "name": "bb1.d_",
+            "extension": ".D_",
+            "size_bytes": 1576,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/bb1.d_"
+        },
+        {
+            "name": "BB1.db",
+            "extension": ".DB",
+            "size_bytes": 1576,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/BB1.db"
+        },
+        {
+            "name": "bcode.db",
+            "extension": ".DB",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/bcode.db"
+        },
+        {
+            "name": "bcode.m_",
+            "extension": ".M_",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/bcode.m_"
+        },
+        {
+            "name": "bhav.d_",
+            "extension": ".D_",
+            "size_bytes": 712,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/bhav.d_"
+        },
+        {
+            "name": "bhav.db",
+            "extension": ".DB",
+            "size_bytes": 712,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/bhav.db"
+        },
+        {
+            "name": "boxwt.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/boxwt.d_"
+        },
+        {
+            "name": "boxwt.db",
+            "extension": ".DB",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/boxwt.db"
+        },
+        {
+            "name": "branch.d_",
+            "extension": ".D_",
+            "size_bytes": 1352,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/branch.d_"
+        },
+        {
+            "name": "branch.db",
+            "extension": ".DB",
+            "size_bytes": 1352,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/branch.db"
+        },
+        {
+            "name": "BULL1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2472,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/BULL1.BAK"
+        },
+        {
+            "name": "BULL1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2472,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/BULL1.BAK"
+        },
+        {
+            "name": "bull1.d_",
+            "extension": ".D_",
+            "size_bytes": 2472,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/bull1.d_"
+        },
+        {
+            "name": "BULL1.db",
+            "extension": ".DB",
+            "size_bytes": 2472,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/BULL1.db"
+        },
+        {
+            "name": "cabarc.exe",
+            "extension": ".EXE",
+            "size_bytes": 114688,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/cabarc.exe"
+        },
+        {
+            "name": "cabarc.exe",
+            "extension": ".EXE",
+            "size_bytes": 114688,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/cabarc.exe"
+        },
+        {
+            "name": "category.d_",
+            "extension": ".D_",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/category.d_"
+        },
+        {
+            "name": "category.db",
+            "extension": ".DB",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/category.db"
+        },
+        {
+            "name": "CCSALE1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1448,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/CCSALE1.BAK"
+        },
+        {
+            "name": "CCSALE1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1448,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/CCSALE1.BAK"
+        },
+        {
+            "name": "ccsale1.d_",
+            "extension": ".D_",
+            "size_bytes": 1448,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ccsale1.d_"
+        },
+        {
+            "name": "CCSALE1.db",
+            "extension": ".DB",
+            "size_bytes": 1448,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/CCSALE1.db"
+        },
+        {
+            "name": "cfgtmp.abc",
+            "extension": ".ABC",
+            "size_bytes": 1277209,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/cfgtmp.abc"
+        },
+        {
+            "name": "cfgtmp.abc",
+            "extension": ".ABC",
+            "size_bytes": 1277209,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/cfgtmp.abc"
+        },
+        {
+            "name": "CHEQUES.BAK",
+            "extension": ".BAK",
+            "size_bytes": 808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/CHEQUES.BAK"
+        },
+        {
+            "name": "CHEQUES.BAK",
+            "extension": ".BAK",
+            "size_bytes": 808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/CHEQUES.BAK"
+        },
+        {
+            "name": "cheques.d_",
+            "extension": ".D_",
+            "size_bytes": 808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/cheques.d_"
+        },
+        {
+            "name": "CHEQUES.db",
+            "extension": ".DB",
+            "size_bytes": 808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/CHEQUES.db"
+        },
+        {
+            "name": "chq1.d_",
+            "extension": ".D_",
+            "size_bytes": 520,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/chq1.d_"
+        },
+        {
+            "name": "chq1.db",
+            "extension": ".DB",
+            "size_bytes": 520,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/chq1.db"
+        },
+        {
+            "name": "city.d_",
+            "extension": ".D_",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/city.d_"
+        },
+        {
+            "name": "city.db",
+            "extension": ".DB",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/city.db"
+        },
+        {
+            "name": "clarity.d_",
+            "extension": ".D_",
+            "size_bytes": 1782,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/clarity.d_"
+        },
+        {
+            "name": "clarity.db",
+            "extension": ".DB",
+            "size_bytes": 1783,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/clarity.db"
+        },
+        {
+            "name": "clgrp.d_",
+            "extension": ".D_",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/clgrp.d_"
+        },
+        {
+            "name": "clgrp.db",
+            "extension": ".DB",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/clgrp.db"
+        },
+        {
+            "name": "clrrate.d_",
+            "extension": ".D_",
+            "size_bytes": 18369,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/clrrate.d_"
+        },
+        {
+            "name": "clrrate.db",
+            "extension": ".DB",
+            "size_bytes": 18369,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/clrrate.db"
+        },
+        {
+            "name": "clstk1.d_",
+            "extension": ".D_",
+            "size_bytes": 680,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/clstk1.d_"
+        },
+        {
+            "name": "clstk1.db",
+            "extension": ".DB",
+            "size_bytes": 680,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/clstk1.db"
+        },
+        {
+            "name": "cmp.exe",
+            "extension": ".EXE",
+            "size_bytes": 12800,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/cmp.exe"
+        },
+        {
+            "name": "colour.d_",
+            "extension": ".D_",
+            "size_bytes": 1354,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/colour.d_"
+        },
+        {
+            "name": "colour.db",
+            "extension": ".DB",
+            "size_bytes": 1479,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/colour.db"
+        },
+        {
+            "name": "comex1.d_",
+            "extension": ".D_",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/comex1.d_"
+        },
+        {
+            "name": "comex1.db",
+            "extension": ".DB",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/comex1.db"
+        },
+        {
+            "name": "company.ini",
+            "extension": ".INI",
+            "size_bytes": 18221,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/company.ini"
+        },
+        {
+            "name": "coupon.d_",
+            "extension": ".D_",
+            "size_bytes": 360,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/coupon.d_"
+        },
+        {
+            "name": "coupon.db",
+            "extension": ".DB",
+            "size_bytes": 360,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/coupon.db"
+        },
+        {
+            "name": "cp.ini",
+            "extension": ".INI",
+            "size_bytes": 18221,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/cp.ini"
+        },
+        {
+            "name": "crlimit.d_",
+            "extension": ".D_",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/crlimit.d_"
+        },
+        {
+            "name": "crlimit.db",
+            "extension": ".DB",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/crlimit.db"
+        },
+        {
+            "name": "CTRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/CTRAN1.BAK"
+        },
+        {
+            "name": "CTRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/CTRAN1.BAK"
+        },
+        {
+            "name": "ctran1.d_",
+            "extension": ".D_",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ctran1.d_"
+        },
+        {
+            "name": "CTRAN1.db",
+            "extension": ".DB",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/CTRAN1.db"
+        },
+        {
+            "name": "dept.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dept.d_"
+        },
+        {
+            "name": "dept.db",
+            "extension": ".DB",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/dept.db"
+        },
+        {
+            "name": "DESICNM.BAK",
+            "extension": ".BAK",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/DESICNM.BAK"
+        },
+        {
+            "name": "DESICNM.BAK",
+            "extension": ".BAK",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DESICNM.BAK"
+        },
+        {
+            "name": "desicnm.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/desicnm.d_"
+        },
+        {
+            "name": "DESICNM.db",
+            "extension": ".DB",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DESICNM.db"
+        },
+        {
+            "name": "DESIDET.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/DESIDET.BAK"
+        },
+        {
+            "name": "DESIDET.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DESIDET.BAK"
+        },
+        {
+            "name": "desidet.d_",
+            "extension": ".D_",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/desidet.d_"
+        },
+        {
+            "name": "DESIDET.db",
+            "extension": ".DB",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DESIDET.db"
+        },
+        {
+            "name": "DESIGN.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1928,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/DESIGN.BAK"
+        },
+        {
+            "name": "DESIGN.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1928,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DESIGN.BAK"
+        },
+        {
+            "name": "design.d_",
+            "extension": ".D_",
+            "size_bytes": 1928,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/design.d_"
+        },
+        {
+            "name": "DESIGN.db",
+            "extension": ".DB",
+            "size_bytes": 1928,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DESIGN.db"
+        },
+        {
+            "name": "DIA.FRT",
+            "extension": ".FRT",
+            "size_bytes": 39808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DIA.FRT"
+        },
+        {
+            "name": "DIA.FRX",
+            "extension": ".FRX",
+            "size_bytes": 9567,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DIA.FRX"
+        },
+        {
+            "name": "DIDET1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/DIDET1.BAK"
+        },
+        {
+            "name": "DIDET1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DIDET1.BAK"
+        },
+        {
+            "name": "didet1.d_",
+            "extension": ".D_",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/didet1.d_"
+        },
+        {
+            "name": "DIDET1.db",
+            "extension": ".DB",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DIDET1.db"
+        },
+        {
+            "name": "dir.db",
+            "extension": ".DB",
+            "size_bytes": 39250,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/dir.db"
+        },
+        {
+            "name": "dir.m_",
+            "extension": ".M_",
+            "size_bytes": 39250,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dir.m_"
+        },
+        {
+            "name": "DITRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8040,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/DITRN1.BAK"
+        },
+        {
+            "name": "DITRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8040,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DITRN1.BAK"
+        },
+        {
+            "name": "ditrn1.d_",
+            "extension": ".D_",
+            "size_bytes": 8040,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ditrn1.d_"
+        },
+        {
+            "name": "DITRN1.db",
+            "extension": ".DB",
+            "size_bytes": 8040,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DITRN1.db"
+        },
+        {
+            "name": "dltbl.d_",
+            "extension": ".D_",
+            "size_bytes": 360,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dltbl.d_"
+        },
+        {
+            "name": "dltbl.db",
+            "extension": ".DB",
+            "size_bytes": 360,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/dltbl.db"
+        },
+        {
+            "name": "dmitrn1.d_",
+            "extension": ".D_",
+            "size_bytes": 8168,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dmitrn1.d_"
+        },
+        {
+            "name": "dmitrn1.db",
+            "extension": ".DB",
+            "size_bytes": 8168,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/dmitrn1.db"
+        },
+        {
+            "name": "dmsnd1.d_",
+            "extension": ".D_",
+            "size_bytes": 1416,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dmsnd1.d_"
+        },
+        {
+            "name": "dmsnd1.db",
+            "extension": ".DB",
+            "size_bytes": 1416,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/dmsnd1.db"
+        },
+        {
+            "name": "DMTRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/DMTRAN1.BAK"
+        },
+        {
+            "name": "DMTRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DMTRAN1.BAK"
+        },
+        {
+            "name": "dmtran1.d_",
+            "extension": ".D_",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dmtran1.d_"
+        },
+        {
+            "name": "DMTRAN1.db",
+            "extension": ".DB",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DMTRAN1.db"
+        },
+        {
+            "name": "download.exe",
+            "extension": ".EXE",
+            "size_bytes": 122368,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/download.exe"
+        },
+        {
+            "name": "DSTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/DSTRN1.BAK"
+        },
+        {
+            "name": "DSTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DSTRN1.BAK"
+        },
+        {
+            "name": "dstrn1.d_",
+            "extension": ".D_",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dstrn1.d_"
+        },
+        {
+            "name": "DSTRN1.db",
+            "extension": ".DB",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DSTRN1.db"
+        },
+        {
+            "name": "dtgmail.db_",
+            "extension": ".DB_",
+            "size_bytes": 8264,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dtgmail.db_"
+        },
+        {
+            "name": "DTINFO.BAK",
+            "extension": ".BAK",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/DTINFO.BAK"
+        },
+        {
+            "name": "DTINFO.BAK",
+            "extension": ".BAK",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DTINFO.BAK"
+        },
+        {
+            "name": "dtinfo.d_",
+            "extension": ".D_",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dtinfo.d_"
+        },
+        {
+            "name": "DTINFO.db",
+            "extension": ".DB",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DTINFO.db"
+        },
+        {
+            "name": "DTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/DTRN1.BAK"
+        },
+        {
+            "name": "DTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DTRN1.BAK"
+        },
+        {
+            "name": "dtrn1.d_",
+            "extension": ".D_",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dtrn1.d_"
+        },
+        {
+            "name": "DTRN1.db",
+            "extension": ".DB",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/DTRN1.db"
+        },
+        {
+            "name": "dttbl.d_",
+            "extension": ".D_",
+            "size_bytes": 3960,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dttbl.d_"
+        },
+        {
+            "name": "dttbl.db",
+            "extension": ".DB",
+            "size_bytes": 3960,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/dttbl.db"
+        },
+        {
+            "name": "dump.sql",
+            "extension": ".SQL",
+            "size_bytes": 9393287,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/dump.sql"
+        },
+        {
+            "name": "enarr.db",
+            "extension": ".DB",
+            "size_bytes": 2658,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/enarr.db"
+        },
+        {
+            "name": "enarr.m_",
+            "extension": ".M_",
+            "size_bytes": 648,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/enarr.m_"
+        },
+        {
+            "name": "errlog.fpt",
+            "extension": ".FPT",
+            "size_bytes": 512,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/errlog.fpt"
+        },
+        {
+            "name": "estc.FRT",
+            "extension": ".FRT",
+            "size_bytes": 91968,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/estc.FRT"
+        },
+        {
+            "name": "estc.FRX",
+            "extension": ".FRX",
+            "size_bytes": 59260,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/estc.FRX"
+        },
+        {
+            "name": "exports.d_",
+            "extension": ".D_",
+            "size_bytes": 12622,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/exports.d_"
+        },
+        {
+            "name": "EXPORTS.DB",
+            "extension": ".DB",
+            "size_bytes": 12622,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/EXPORTS.DB"
+        },
+        {
+            "name": "features.db",
+            "extension": ".DB",
+            "size_bytes": 5891,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/features.db"
+        },
+        {
+            "name": "features.m_",
+            "extension": ".M_",
+            "size_bytes": 5890,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/features.m_"
+        },
+        {
+            "name": "formhlp.db",
+            "extension": ".DB",
+            "size_bytes": 1129241,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/formhlp.db"
+        },
+        {
+            "name": "formhlp.m_",
+            "extension": ".M_",
+            "size_bytes": 1129241,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/formhlp.m_"
+        },
+        {
+            "name": "formmst.d_",
+            "extension": ".D_",
+            "size_bytes": 154304,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/formmst.d_"
+        },
+        {
+            "name": "formmst.db",
+            "extension": ".DB",
+            "size_bytes": 154305,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/formmst.db"
+        },
+        {
+            "name": "formprn.d_",
+            "extension": ".D_",
+            "size_bytes": 1558096,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/formprn.d_"
+        },
+        {
+            "name": "formprn.db",
+            "extension": ".DB",
+            "size_bytes": 1558097,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/formprn.db"
+        },
+        {
+            "name": "FOXUSER.DBF",
+            "extension": ".DBF",
+            "size_bytes": 3641,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/FOXUSER.DBF"
+        },
+        {
+            "name": "FOXUSER.FPT",
+            "extension": ".FPT",
+            "size_bytes": 25984,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/FOXUSER.FPT"
+        },
+        {
+            "name": "foxypre.app",
+            "extension": ".APP",
+            "size_bytes": 3828850,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/foxypre.app"
+        },
+        {
+            "name": "foxypre.app",
+            "extension": ".APP",
+            "size_bytes": 3828850,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/foxypre.app"
+        },
+        {
+            "name": "foxypreviewer_settings.db_",
+            "extension": ".DB_",
+            "size_bytes": 21334,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/foxypreviewer_settings.db_"
+        },
+        {
+            "name": "FoxyPreviewer_Settings.dbf",
+            "extension": ".DBF",
+            "size_bytes": 21334,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/FoxyPreviewer_Settings.dbf"
+        },
+        {
+            "name": "fpdef.db",
+            "extension": ".DB",
+            "size_bytes": 5039,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/fpdef.db"
+        },
+        {
+            "name": "fpdef.m_",
+            "extension": ".M_",
+            "size_bytes": 520,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/fpdef.m_"
+        },
+        {
+            "name": "gcode.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gcode.d_"
+        },
+        {
+            "name": "gcode.db",
+            "extension": ".DB",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/gcode.db"
+        },
+        {
+            "name": "gintdt.d_",
+            "extension": ".D_",
+            "size_bytes": 968,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gintdt.d_"
+        },
+        {
+            "name": "gintdt.db",
+            "extension": ".DB",
+            "size_bytes": 968,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/gintdt.db"
+        },
+        {
+            "name": "GISDET1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 840,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/GISDET1.BAK"
+        },
+        {
+            "name": "GISDET1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 840,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GISDET1.BAK"
+        },
+        {
+            "name": "gisdet1.d_",
+            "extension": ".D_",
+            "size_bytes": 840,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gisdet1.d_"
+        },
+        {
+            "name": "GISDET1.db",
+            "extension": ".DB",
+            "size_bytes": 840,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GISDET1.db"
+        },
+        {
+            "name": "GISSUE1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2792,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/GISSUE1.BAK"
+        },
+        {
+            "name": "GISSUE1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2792,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GISSUE1.BAK"
+        },
+        {
+            "name": "gissue1.d_",
+            "extension": ".D_",
+            "size_bytes": 2792,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gissue1.d_"
+        },
+        {
+            "name": "GISSUE1.db",
+            "extension": ".DB",
+            "size_bytes": 2792,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GISSUE1.db"
+        },
+        {
+            "name": "gphyst.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gphyst.d_"
+        },
+        {
+            "name": "gphyst.db",
+            "extension": ".DB",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/gphyst.db"
+        },
+        {
+            "name": "grade.d_",
+            "extension": ".D_",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/grade.d_"
+        },
+        {
+            "name": "grade.db",
+            "extension": ".DB",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/grade.db"
+        },
+        {
+            "name": "grcdet1.d_",
+            "extension": ".D_",
+            "size_bytes": 776,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/grcdet1.d_"
+        },
+        {
+            "name": "grcdet1.db",
+            "extension": ".DB",
+            "size_bytes": 776,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/grcdet1.db"
+        },
+        {
+            "name": "GRCPT1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1704,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/GRCPT1.BAK"
+        },
+        {
+            "name": "GRCPT1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1704,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GRCPT1.BAK"
+        },
+        {
+            "name": "grcpt1.d_",
+            "extension": ".D_",
+            "size_bytes": 1704,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/grcpt1.d_"
+        },
+        {
+            "name": "GRCPT1.db",
+            "extension": ".DB",
+            "size_bytes": 1704,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GRCPT1.db"
+        },
+        {
+            "name": "grdjob.d_",
+            "extension": ".D_",
+            "size_bytes": 16073,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/grdjob.d_"
+        },
+        {
+            "name": "grdjob.db",
+            "extension": ".DB",
+            "size_bytes": 16073,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/grdjob.db"
+        },
+        {
+            "name": "grdmst.d_",
+            "extension": ".D_",
+            "size_bytes": 6135481,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/grdmst.d_"
+        },
+        {
+            "name": "grdmst.db",
+            "extension": ".DB",
+            "size_bytes": 6135481,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/grdmst.db"
+        },
+        {
+            "name": "grdrep.d_",
+            "extension": ".D_",
+            "size_bytes": 12954885,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/grdrep.d_"
+        },
+        {
+            "name": "GRDREP.DB",
+            "extension": ".DB",
+            "size_bytes": 12941864,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GRDREP.DB"
+        },
+        {
+            "name": "grdrpo.d_",
+            "extension": ".D_",
+            "size_bytes": 16479625,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/grdrpo.d_"
+        },
+        {
+            "name": "grdrpo.db",
+            "extension": ".DB",
+            "size_bytes": 16479625,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/grdrpo.db"
+        },
+        {
+            "name": "group.d_",
+            "extension": ".D_",
+            "size_bytes": 18697,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/group.d_"
+        },
+        {
+            "name": "group.db",
+            "extension": ".DB",
+            "size_bytes": 18698,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/group.db"
+        },
+        {
+            "name": "grvapp.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/grvapp.d_"
+        },
+        {
+            "name": "grvapp.db",
+            "extension": ".DB",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/grvapp.db"
+        },
+        {
+            "name": "grvsite.d_",
+            "extension": ".D_",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/grvsite.d_"
+        },
+        {
+            "name": "grvsite.db",
+            "extension": ".DB",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/grvsite.db"
+        },
+        {
+            "name": "gstr1.d_",
+            "extension": ".D_",
+            "size_bytes": 648,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gstr1.d_"
+        },
+        {
+            "name": "gstr1.db",
+            "extension": ".DB",
+            "size_bytes": 648,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/gstr1.db"
+        },
+        {
+            "name": "gstr1.xlsx",
+            "extension": ".XLSX",
+            "size_bytes": 486677,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gstr1.xlsx"
+        },
+        {
+            "name": "GSTR1IFF.xlsx",
+            "extension": ".XLSX",
+            "size_bytes": 40188,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/GSTR1IFF.xlsx"
+        },
+        {
+            "name": "gstr2.xlsx",
+            "extension": ".XLSX",
+            "size_bytes": 22887,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gstr2.xlsx"
+        },
+        {
+            "name": "GSTR3B.xlsm",
+            "extension": ".XLSM",
+            "size_bytes": 78207,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/GSTR3B.xlsm"
+        },
+        {
+            "name": "GTIS1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1544,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/GTIS1.BAK"
+        },
+        {
+            "name": "GTIS1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1544,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GTIS1.BAK"
+        },
+        {
+            "name": "gtis1.d_",
+            "extension": ".D_",
+            "size_bytes": 1544,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gtis1.d_"
+        },
+        {
+            "name": "GTIS1.db",
+            "extension": ".DB",
+            "size_bytes": 1544,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GTIS1.db"
+        },
+        {
+            "name": "gtisd1.d_",
+            "extension": ".D_",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gtisd1.d_"
+        },
+        {
+            "name": "gtisd1.db",
+            "extension": ".DB",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/gtisd1.db"
+        },
+        {
+            "name": "gtran1.d_",
+            "extension": ".D_",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gtran1.d_"
+        },
+        {
+            "name": "gtran1.db",
+            "extension": ".DB",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/gtran1.db"
+        },
+        {
+            "name": "GTRC1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1256,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/GTRC1.BAK"
+        },
+        {
+            "name": "GTRC1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1256,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GTRC1.BAK"
+        },
+        {
+            "name": "gtrc1.d_",
+            "extension": ".D_",
+            "size_bytes": 1256,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gtrc1.d_"
+        },
+        {
+            "name": "GTRC1.db",
+            "extension": ".DB",
+            "size_bytes": 1256,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/GTRC1.db"
+        },
+        {
+            "name": "gtrcd1.d_",
+            "extension": ".D_",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/gtrcd1.d_"
+        },
+        {
+            "name": "gtrcd1.db",
+            "extension": ".DB",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/gtrcd1.db"
+        },
+        {
+            "name": "hindate.d_",
+            "extension": ".D_",
+            "size_bytes": 520,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/hindate.d_"
+        },
+        {
+            "name": "hindate.db",
+            "extension": ".DB",
+            "size_bytes": 520,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/hindate.db"
+        },
+        {
+            "name": "holidays.d_",
+            "extension": ".D_",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/holidays.d_"
+        },
+        {
+            "name": "holidays.db",
+            "extension": ".DB",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/holidays.db"
+        },
+        {
+            "name": "ICSharpCode.SharpZipLib.dll",
+            "extension": ".DLL",
+            "size_bytes": 208896,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ICSharpCode.SharpZipLib.dll"
+        },
+        {
+            "name": "IDET1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/IDET1.BAK"
+        },
+        {
+            "name": "IDET1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/IDET1.BAK"
+        },
+        {
+            "name": "idet1.d_",
+            "extension": ".D_",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/idet1.d_"
+        },
+        {
+            "name": "IDET1.DB",
+            "extension": ".DB",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/IDET1.DB"
+        },
+        {
+            "name": "igroup.d_",
+            "extension": ".D_",
+            "size_bytes": 9712,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/igroup.d_"
+        },
+        {
+            "name": "igroup.db",
+            "extension": ".DB",
+            "size_bytes": 9713,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/igroup.db"
+        },
+        {
+            "name": "impxlsx.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2268,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/impxlsx.BAK"
+        },
+        {
+            "name": "inaitm.d_",
+            "extension": ".D_",
+            "size_bytes": 360,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/inaitm.d_"
+        },
+        {
+            "name": "inaitm.db",
+            "extension": ".DB",
+            "size_bytes": 360,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/inaitm.db"
+        },
+        {
+            "name": "intr.db",
+            "extension": ".DB",
+            "size_bytes": 616,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/intr.db"
+        },
+        {
+            "name": "intr.m_",
+            "extension": ".M_",
+            "size_bytes": 616,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/intr.m_"
+        },
+        {
+            "name": "INVX.FRT",
+            "extension": ".FRT",
+            "size_bytes": 66432,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/INVX.FRT"
+        },
+        {
+            "name": "INVX.FRX",
+            "extension": ".FRX",
+            "size_bytes": 51016,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/INVX.FRX"
+        },
+        {
+            "name": "Ires.txt",
+            "extension": ".TXT",
+            "size_bytes": 44,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/Ires.txt"
+        },
+        {
+            "name": "isize.d_",
+            "extension": ".D_",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/isize.d_"
+        },
+        {
+            "name": "isize.db",
+            "extension": ".DB",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/isize.db"
+        },
+        {
+            "name": "ITC04.xlsm",
+            "extension": ".XLSM",
+            "size_bytes": 195708,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ITC04.xlsm"
+        },
+        {
+            "name": "itemlink.d_",
+            "extension": ".D_",
+            "size_bytes": 648,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/itemlink.d_"
+        },
+        {
+            "name": "itemlink.db",
+            "extension": ".DB",
+            "size_bytes": 648,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/itemlink.db"
+        },
+        {
+            "name": "ITEMMAST.BAK",
+            "extension": ".BAK",
+            "size_bytes": 4328,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ITEMMAST.BAK"
+        },
+        {
+            "name": "ITEMMAST.BAK",
+            "extension": ".BAK",
+            "size_bytes": 23839,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ITEMMAST.BAK"
+        },
+        {
+            "name": "itemmast.d_",
+            "extension": ".D_",
+            "size_bytes": 14053,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/itemmast.d_"
+        },
+        {
+            "name": "ITEMMAST.DB",
+            "extension": ".DB",
+            "size_bytes": 132699,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ITEMMAST.DB"
+        },
+        {
+            "name": "items.d_",
+            "extension": ".D_",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/items.d_"
+        },
+        {
+            "name": "items.db",
+            "extension": ".DB",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/items.db"
+        },
+        {
+            "name": "ITRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8040,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ITRAN1.BAK"
+        },
+        {
+            "name": "ITRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8040,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ITRAN1.BAK"
+        },
+        {
+            "name": "itran1.d_",
+            "extension": ".D_",
+            "size_bytes": 8040,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/itran1.d_"
+        },
+        {
+            "name": "ITRAN1.DB",
+            "extension": ".DB",
+            "size_bytes": 13677964,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ITRAN1.DB"
+        },
+        {
+            "name": "itrate.d_",
+            "extension": ".D_",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/itrate.d_"
+        },
+        {
+            "name": "itrate.db",
+            "extension": ".DB",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/itrate.db"
+        },
+        {
+            "name": "ITRNDEL1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ITRNDEL1.BAK"
+        },
+        {
+            "name": "ITRNDEL1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ITRNDEL1.BAK"
+        },
+        {
+            "name": "itrndel1.d_",
+            "extension": ".D_",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/itrndel1.d_"
+        },
+        {
+            "name": "ITRNDEL1.db",
+            "extension": ".DB",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ITRNDEL1.db"
+        },
+        {
+            "name": "ITSTD1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 7912,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ITSTD1.BAK"
+        },
+        {
+            "name": "ITSTD1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 7912,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ITSTD1.BAK"
+        },
+        {
+            "name": "ITSTD1.D_",
+            "extension": ".D_",
+            "size_bytes": 7912,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ITSTD1.D_"
+        },
+        {
+            "name": "ITSTD1.DB",
+            "extension": ".DB",
+            "size_bytes": 9939190,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ITSTD1.DB"
+        },
+        {
+            "name": "jdesc.d_",
+            "extension": ".D_",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/jdesc.d_"
+        },
+        {
+            "name": "jdesc.db",
+            "extension": ".DB",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jdesc.db"
+        },
+        {
+            "name": "jew1.bac",
+            "extension": ".BAC",
+            "size_bytes": 1739482,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jew1.bac"
+        },
+        {
+            "name": "jew2.bac",
+            "extension": ".BAC",
+            "size_bytes": 2555025,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jew2.bac"
+        },
+        {
+            "name": "jew3.bac",
+            "extension": ".BAC",
+            "size_bytes": 2536195,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jew3.bac"
+        },
+        {
+            "name": "jew4.bac",
+            "extension": ".BAC",
+            "size_bytes": 2545546,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jew4.bac"
+        },
+        {
+            "name": "jew5.bac",
+            "extension": ".BAC",
+            "size_bytes": 2554144,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jew5.bac"
+        },
+        {
+            "name": "jew6.bac",
+            "extension": ".BAC",
+            "size_bytes": 2528098,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jew6.bac"
+        },
+        {
+            "name": "jew7.bac",
+            "extension": ".BAC",
+            "size_bytes": 2554861,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jew7.bac"
+        },
+        {
+            "name": "job.d_",
+            "extension": ".D_",
+            "size_bytes": 26017,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/job.d_"
+        },
+        {
+            "name": "job.db",
+            "extension": ".DB",
+            "size_bytes": 26017,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/job.db"
+        },
+        {
+            "name": "jobmast.d_",
+            "extension": ".D_",
+            "size_bytes": 1736,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/jobmast.d_"
+        },
+        {
+            "name": "jobmast.db",
+            "extension": ".DB",
+            "size_bytes": 1736,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jobmast.db"
+        },
+        {
+            "name": "JOBMAST1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/JOBMAST1.BAK"
+        },
+        {
+            "name": "JOBMAST1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/JOBMAST1.BAK"
+        },
+        {
+            "name": "jobmast1.d_",
+            "extension": ".D_",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/jobmast1.d_"
+        },
+        {
+            "name": "JOBMAST1.db",
+            "extension": ".DB",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/JOBMAST1.db"
+        },
+        {
+            "name": "jwell.db_",
+            "extension": ".DB_",
+            "size_bytes": 328,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/jwell.db_"
+        },
+        {
+            "name": "jwell.dbf",
+            "extension": ".DBF",
+            "size_bytes": 328,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jwell.dbf"
+        },
+        {
+            "name": "JWELLY.cb",
+            "extension": ".CB",
+            "size_bytes": 1791792,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/1001/JWELLY.cb"
+        },
+        {
+            "name": "JWELLY.cb",
+            "extension": ".CB",
+            "size_bytes": 1845169,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/1001/27.12.24/1001/JWELLY.cb"
+        },
+        {
+            "name": "jwelly9.exe",
+            "extension": ".EXE",
+            "size_bytes": 79871441,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/jwelly9.exe"
+        },
+        {
+            "name": "jwerp10.zip",
+            "extension": ".ZIP",
+            "size_bytes": 18277999,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/jwerp10.zip"
+        },
+        {
+            "name": "jwftp.exe",
+            "extension": ".EXE",
+            "size_bytes": 29318,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/jwftp.exe"
+        },
+        {
+            "name": "jydata.DBC",
+            "extension": ".DBC",
+            "size_bytes": 2596333,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jydata.DBC"
+        },
+        {
+            "name": "jydata.DCT",
+            "extension": ".DCT",
+            "size_bytes": 14848,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jydata.DCT"
+        },
+        {
+            "name": "jydata.DCX",
+            "extension": ".DCX",
+            "size_bytes": 175616,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/jydata.DCX"
+        },
+        {
+            "name": "KACHI1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1224,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/KACHI1.BAK"
+        },
+        {
+            "name": "KACHI1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1224,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/KACHI1.BAK"
+        },
+        {
+            "name": "kachi1.d_",
+            "extension": ".D_",
+            "size_bytes": 1224,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/kachi1.d_"
+        },
+        {
+            "name": "KACHI1.db",
+            "extension": ".DB",
+            "size_bytes": 1224,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/KACHI1.db"
+        },
+        {
+            "name": "lab.d_",
+            "extension": ".D_",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/lab.d_"
+        },
+        {
+            "name": "lab.db",
+            "extension": ".DB",
+            "size_bytes": 489,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/lab.db"
+        },
+        {
+            "name": "labmast.d_",
+            "extension": ".D_",
+            "size_bytes": 776,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/labmast.d_"
+        },
+        {
+            "name": "labmast.db",
+            "extension": ".DB",
+            "size_bytes": 776,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/labmast.db"
+        },
+        {
+            "name": "libhpdf.dll",
+            "extension": ".DLL",
+            "size_bytes": 786432,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/libhpdf.dll"
+        },
+        {
+            "name": "LIC.txt",
+            "extension": ".TXT",
+            "size_bytes": 32,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/LIC.txt"
+        },
+        {
+            "name": "LIMIT1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1320,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/LIMIT1.BAK"
+        },
+        {
+            "name": "LIMIT1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1320,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/LIMIT1.BAK"
+        },
+        {
+            "name": "limit1.d_",
+            "extension": ".D_",
+            "size_bytes": 1320,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/limit1.d_"
+        },
+        {
+            "name": "LIMIT1.db",
+            "extension": ".DB",
+            "size_bytes": 1320,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/LIMIT1.db"
+        },
+        {
+            "name": "lmenu.d_",
+            "extension": ".D_",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/lmenu.d_"
+        },
+        {
+            "name": "lmenu.db",
+            "extension": ".DB",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/lmenu.db"
+        },
+        {
+            "name": "location.d_",
+            "extension": ".D_",
+            "size_bytes": 328,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/location.d_"
+        },
+        {
+            "name": "location.db",
+            "extension": ".DB",
+            "size_bytes": 328,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/location.db"
+        },
+        {
+            "name": "login.d_",
+            "extension": ".D_",
+            "size_bytes": 3240,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/login.d_"
+        },
+        {
+            "name": "login.db",
+            "extension": ".DB",
+            "size_bytes": 3950,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/login.db"
+        },
+        {
+            "name": "LOTT1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/LOTT1.BAK"
+        },
+        {
+            "name": "LOTT1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/LOTT1.BAK"
+        },
+        {
+            "name": "lott1.d_",
+            "extension": ".D_",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/lott1.d_"
+        },
+        {
+            "name": "LOTT1.db",
+            "extension": ".DB",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/LOTT1.db"
+        },
+        {
+            "name": "LTRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 648,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/LTRAN1.BAK"
+        },
+        {
+            "name": "LTRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 648,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/LTRAN1.BAK"
+        },
+        {
+            "name": "ltran1.d_",
+            "extension": ".D_",
+            "size_bytes": 648,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ltran1.d_"
+        },
+        {
+            "name": "LTRAN1.db",
+            "extension": ".DB",
+            "size_bytes": 648,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/LTRAN1.db"
+        },
+        {
+            "name": "mcurr.d_",
+            "extension": ".D_",
+            "size_bytes": 418,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/mcurr.d_"
+        },
+        {
+            "name": "mcurr.db",
+            "extension": ".DB",
+            "size_bytes": 419,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/mcurr.db"
+        },
+        {
+            "name": "MCX1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 712,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/MCX1.BAK"
+        },
+        {
+            "name": "MCX1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 712,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/MCX1.BAK"
+        },
+        {
+            "name": "mcx1.d_",
+            "extension": ".D_",
+            "size_bytes": 712,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/mcx1.d_"
+        },
+        {
+            "name": "MCX1.db",
+            "extension": ".DB",
+            "size_bytes": 712,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/MCX1.db"
+        },
+        {
+            "name": "mcxclear.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/mcxclear.d_"
+        },
+        {
+            "name": "mcxclear.db",
+            "extension": ".DB",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/mcxclear.db"
+        },
+        {
+            "name": "mcxday.d_",
+            "extension": ".D_",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/mcxday.d_"
+        },
+        {
+            "name": "mcxday.db",
+            "extension": ".DB",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/mcxday.db"
+        },
+        {
+            "name": "mcxrate.d_",
+            "extension": ".D_",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/mcxrate.d_"
+        },
+        {
+            "name": "mcxrate.db",
+            "extension": ".DB",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/mcxrate.db"
+        },
+        {
+            "name": "MEMBERS.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1896,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/MEMBERS.BAK"
+        },
+        {
+            "name": "MEMBERS.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1896,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/MEMBERS.BAK"
+        },
+        {
+            "name": "members.d_",
+            "extension": ".D_",
+            "size_bytes": 1896,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/members.d_"
+        },
+        {
+            "name": "MEMBERS.db",
+            "extension": ".DB",
+            "size_bytes": 1896,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/MEMBERS.db"
+        },
+        {
+            "name": "mnu.d_",
+            "extension": ".D_",
+            "size_bytes": 163242,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/mnu.d_"
+        },
+        {
+            "name": "mnu.db",
+            "extension": ".DB",
+            "size_bytes": 163242,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/mnu.db"
+        },
+        {
+            "name": "msvcr71.dll",
+            "extension": ".DLL",
+            "size_bytes": 348160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/msvcr71.dll"
+        },
+        {
+            "name": "notificationdll.dll",
+            "extension": ".DLL",
+            "size_bytes": 17920,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/notificationdll.dll"
+        },
+        {
+            "name": "numcode.d_",
+            "extension": ".D_",
+            "size_bytes": 474,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/numcode.d_"
+        },
+        {
+            "name": "numcode.db",
+            "extension": ".DB",
+            "size_bytes": 475,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/numcode.db"
+        },
+        {
+            "name": "ORD1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1064,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ORD1.BAK"
+        },
+        {
+            "name": "ORD1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1064,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ORD1.BAK"
+        },
+        {
+            "name": "ord1.d_",
+            "extension": ".D_",
+            "size_bytes": 1064,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ord1.d_"
+        },
+        {
+            "name": "ORD1.db",
+            "extension": ".DB",
+            "size_bytes": 1064,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ORD1.db"
+        },
+        {
+            "name": "orddet1.d_",
+            "extension": ".D_",
+            "size_bytes": 712,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/orddet1.d_"
+        },
+        {
+            "name": "orddet1.db",
+            "extension": ".DB",
+            "size_bytes": 712,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/orddet1.db"
+        },
+        {
+            "name": "ordrem1.d_",
+            "extension": ".D_",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ordrem1.d_"
+        },
+        {
+            "name": "ordrem1.db",
+            "extension": ".DB",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ordrem1.db"
+        },
+        {
+            "name": "ORDTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ORDTRN1.BAK"
+        },
+        {
+            "name": "ORDTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ORDTRN1.BAK"
+        },
+        {
+            "name": "ordtrn1.d_",
+            "extension": ".D_",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ordtrn1.d_"
+        },
+        {
+            "name": "ORDTRN1.db",
+            "extension": ".DB",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/ORDTRN1.db"
+        },
+        {
+            "name": "ores.txt",
+            "extension": ".TXT",
+            "size_bytes": 193,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ores.txt"
+        },
+        {
+            "name": "paper.db",
+            "extension": ".DB",
+            "size_bytes": 1388,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/paper.db"
+        },
+        {
+            "name": "paper.m_",
+            "extension": ".M_",
+            "size_bytes": 1388,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/paper.m_"
+        },
+        {
+            "name": "pcdet.d_",
+            "extension": ".D_",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/pcdet.d_"
+        },
+        {
+            "name": "pcdet.db",
+            "extension": ".DB",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/pcdet.db"
+        },
+        {
+            "name": "physcan.d_",
+            "extension": ".D_",
+            "size_bytes": 1096,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/physcan.d_"
+        },
+        {
+            "name": "physcan.db",
+            "extension": ".DB",
+            "size_bytes": 3959,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/physcan.db"
+        },
+        {
+            "name": "physt.d_",
+            "extension": ".D_",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/physt.d_"
+        },
+        {
+            "name": "physt.db",
+            "extension": ".DB",
+            "size_bytes": 1192,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/physt.db"
+        },
+        {
+            "name": "pointrs.d_",
+            "extension": ".D_",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/pointrs.d_"
+        },
+        {
+            "name": "pointrs.db",
+            "extension": ".DB",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/pointrs.db"
+        },
+        {
+            "name": "polyconf.db",
+            "extension": ".DB",
+            "size_bytes": 1318,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/polyconf.db"
+        },
+        {
+            "name": "polyconf.m_",
+            "extension": ".M_",
+            "size_bytes": 1317,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/polyconf.m_"
+        },
+        {
+            "name": "polywt.d_",
+            "extension": ".D_",
+            "size_bytes": 529,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/polywt.d_"
+        },
+        {
+            "name": "polywt.db",
+            "extension": ".DB",
+            "size_bytes": 530,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/polywt.db"
+        },
+        {
+            "name": "prndbk.d_",
+            "extension": ".D_",
+            "size_bytes": 4692,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/prndbk.d_"
+        },
+        {
+            "name": "prndbk.db",
+            "extension": ".DB",
+            "size_bytes": 4693,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/prndbk.db"
+        },
+        {
+            "name": "prv.prn",
+            "extension": ".PRN",
+            "size_bytes": 2875024,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/prv.prn"
+        },
+        {
+            "name": "QIDET1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/QIDET1.BAK"
+        },
+        {
+            "name": "QIDET1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/QIDET1.BAK"
+        },
+        {
+            "name": "qidet1.d_",
+            "extension": ".D_",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/qidet1.d_"
+        },
+        {
+            "name": "QIDET1.db",
+            "extension": ".DB",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/QIDET1.db"
+        },
+        {
+            "name": "QITRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 7976,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/QITRAN1.BAK"
+        },
+        {
+            "name": "QITRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 7976,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/QITRAN1.BAK"
+        },
+        {
+            "name": "qitran1.d_",
+            "extension": ".D_",
+            "size_bytes": 7976,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/qitran1.d_"
+        },
+        {
+            "name": "QITRAN1.DB",
+            "extension": ".DB",
+            "size_bytes": 155465,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/QITRAN1.DB"
+        },
+        {
+            "name": "qr_code.exe",
+            "extension": ".EXE",
+            "size_bytes": 5632,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/qr_code.exe"
+        },
+        {
+            "name": "qrcode.exe",
+            "extension": ".EXE",
+            "size_bytes": 5632,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/qrcode.exe"
+        },
+        {
+            "name": "qrcode.exe",
+            "extension": ".EXE",
+            "size_bytes": 5632,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/qrcode.exe"
+        },
+        {
+            "name": "QRCoder.dll",
+            "extension": ".DLL",
+            "size_bytes": 117248,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/QRCoder.dll"
+        },
+        {
+            "name": "QSTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1864,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/QSTRN1.BAK"
+        },
+        {
+            "name": "QSTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1864,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/QSTRN1.BAK"
+        },
+        {
+            "name": "qstrn1.d_",
+            "extension": ".D_",
+            "size_bytes": 1864,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/qstrn1.d_"
+        },
+        {
+            "name": "QSTRN1.DB",
+            "extension": ".DB",
+            "size_bytes": 3137,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/QSTRN1.DB"
+        },
+        {
+            "name": "quality.d_",
+            "extension": ".D_",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/quality.d_"
+        },
+        {
+            "name": "quality.db",
+            "extension": ".DB",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/quality.db"
+        },
+        {
+            "name": "QUOT1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 4616,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/QUOT1.BAK"
+        },
+        {
+            "name": "QUOT1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 4616,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/QUOT1.BAK"
+        },
+        {
+            "name": "quot1.d_",
+            "extension": ".D_",
+            "size_bytes": 4616,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/quot1.d_"
+        },
+        {
+            "name": "QUOT1.DB",
+            "extension": ".DB",
+            "size_bytes": 6607,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/QUOT1.DB"
+        },
+        {
+            "name": "rapa.d_",
+            "extension": ".D_",
+            "size_bytes": 156680,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/rapa.d_"
+        },
+        {
+            "name": "rapa.db",
+            "extension": ".DB",
+            "size_bytes": 156681,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/rapa.db"
+        },
+        {
+            "name": "rates.d_",
+            "extension": ".D_",
+            "size_bytes": 1416,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/rates.d_"
+        },
+        {
+            "name": "rates.db",
+            "extension": ".DB",
+            "size_bytes": 1416,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/rates.db"
+        },
+        {
+            "name": "remarks.d_",
+            "extension": ".D_",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/remarks.d_"
+        },
+        {
+            "name": "remarks.db",
+            "extension": ".DB",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/remarks.db"
+        },
+        {
+            "name": "remind.db",
+            "extension": ".DB",
+            "size_bytes": 538,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/remind.db"
+        },
+        {
+            "name": "remind.m_",
+            "extension": ".M_",
+            "size_bytes": 537,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/remind.m_"
+        },
+        {
+            "name": "Renci.SshNet.dll",
+            "extension": ".DLL",
+            "size_bytes": 804352,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/Renci.SshNet.dll"
+        },
+        {
+            "name": "repconf.db",
+            "extension": ".DB",
+            "size_bytes": 515,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/repconf.db"
+        },
+        {
+            "name": "repconf.m_",
+            "extension": ".M_",
+            "size_bytes": 515,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/repconf.m_"
+        },
+        {
+            "name": "ReportBuilder.app",
+            "extension": ".APP",
+            "size_bytes": 738603,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ReportBuilder.app"
+        },
+        {
+            "name": "ReportOutput.app",
+            "extension": ".APP",
+            "size_bytes": 237236,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ReportOutput.app"
+        },
+        {
+            "name": "ReportPreview.app",
+            "extension": ".APP",
+            "size_bytes": 133838,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/ReportPreview.app"
+        },
+        {
+            "name": "repset.d_",
+            "extension": ".D_",
+            "size_bytes": 776,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/repset.d_"
+        },
+        {
+            "name": "repset.db",
+            "extension": ".DB",
+            "size_bytes": 776,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/repset.db"
+        },
+        {
+            "name": "res1.txt",
+            "extension": ".TXT",
+            "size_bytes": 32,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/res1.txt"
+        },
+        {
+            "name": "rlevel.d_",
+            "extension": ".D_",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/rlevel.d_"
+        },
+        {
+            "name": "rlevel.db",
+            "extension": ".DB",
+            "size_bytes": 1160,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/rlevel.db"
+        },
+        {
+            "name": "rname.d_",
+            "extension": ".D_",
+            "size_bytes": 1928,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/rname.d_"
+        },
+        {
+            "name": "rname.db",
+            "extension": ".DB",
+            "size_bytes": 1928,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/rname.db"
+        },
+        {
+            "name": "saltrn1.d_",
+            "extension": ".D_",
+            "size_bytes": 1416,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/saltrn1.d_"
+        },
+        {
+            "name": "saltrn1.db",
+            "extension": ".DB",
+            "size_bytes": 1416,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/saltrn1.db"
+        },
+        {
+            "name": "series.d_",
+            "extension": ".D_",
+            "size_bytes": 1199762,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/series.d_"
+        },
+        {
+            "name": "series.db",
+            "extension": ".DB",
+            "size_bytes": 1205912,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/series.db"
+        },
+        {
+            "name": "setop.d_",
+            "extension": ".D_",
+            "size_bytes": 520,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/setop.d_"
+        },
+        {
+            "name": "setop.db",
+            "extension": ".DB",
+            "size_bytes": 520,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/setop.db"
+        },
+        {
+            "name": "setting.ini",
+            "extension": ".INI",
+            "size_bytes": 32,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/setting.ini"
+        },
+        {
+            "name": "shape.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/shape.d_"
+        },
+        {
+            "name": "shape.db",
+            "extension": ".DB",
+            "size_bytes": 609,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/shape.db"
+        },
+        {
+            "name": "SILVER.FRT",
+            "extension": ".FRT",
+            "size_bytes": 12032,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/SILVER.FRT"
+        },
+        {
+            "name": "SILVER.FRX",
+            "extension": ".FRX",
+            "size_bytes": 9567,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/SILVER.FRX"
+        },
+        {
+            "name": "site.d_",
+            "extension": ".D_",
+            "size_bytes": 1480,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/site.d_"
+        },
+        {
+            "name": "site.db",
+            "extension": ".DB",
+            "size_bytes": 1481,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/site.db"
+        },
+        {
+            "name": "size.d_",
+            "extension": ".D_",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/size.d_"
+        },
+        {
+            "name": "size.db",
+            "extension": ".DB",
+            "size_bytes": 3188,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/size.db"
+        },
+        {
+            "name": "skeys.d_",
+            "extension": ".D_",
+            "size_bytes": 16208,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/skeys.d_"
+        },
+        {
+            "name": "skeys.db",
+            "extension": ".DB",
+            "size_bytes": 16209,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/skeys.db"
+        },
+        {
+            "name": "smitrn1.d_",
+            "extension": ".D_",
+            "size_bytes": 808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/smitrn1.d_"
+        },
+        {
+            "name": "smitrn1.db",
+            "extension": ".DB",
+            "size_bytes": 808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/smitrn1.db"
+        },
+        {
+            "name": "SNDTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/SNDTRN1.BAK"
+        },
+        {
+            "name": "SNDTRN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/SNDTRN1.BAK"
+        },
+        {
+            "name": "sndtrn1.d_",
+            "extension": ".D_",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/sndtrn1.d_"
+        },
+        {
+            "name": "SNDTRN1.DB",
+            "extension": ".DB",
+            "size_bytes": 123339,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/SNDTRN1.DB"
+        },
+        {
+            "name": "srgrp.d_",
+            "extension": ".D_",
+            "size_bytes": 2016,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/srgrp.d_"
+        },
+        {
+            "name": "srgrp.db",
+            "extension": ".DB",
+            "size_bytes": 2017,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/srgrp.db"
+        },
+        {
+            "name": "stacno.d_",
+            "extension": ".D_",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/stacno.d_"
+        },
+        {
+            "name": "stacno.db",
+            "extension": ".DB",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/stacno.db"
+        },
+        {
+            "name": "staffcat.d_",
+            "extension": ".D_",
+            "size_bytes": 680,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/staffcat.d_"
+        },
+        {
+            "name": "staffcat.db",
+            "extension": ".DB",
+            "size_bytes": 680,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/staffcat.db"
+        },
+        {
+            "name": "stamp.d_",
+            "extension": ".D_",
+            "size_bytes": 5446,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/stamp.d_"
+        },
+        {
+            "name": "STAMP.DB",
+            "extension": ".DB",
+            "size_bytes": 42211,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/STAMP.DB"
+        },
+        {
+            "name": "state.d_",
+            "extension": ".D_",
+            "size_bytes": 4088,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/state.d_"
+        },
+        {
+            "name": "state.db",
+            "extension": ".DB",
+            "size_bytes": 4089,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/state.db"
+        },
+        {
+            "name": "sub2form.d_",
+            "extension": ".D_",
+            "size_bytes": 2845,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/sub2form.d_"
+        },
+        {
+            "name": "sub2form.db",
+            "extension": ".DB",
+            "size_bytes": 2845,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/sub2form.db"
+        },
+        {
+            "name": "sundry.d_",
+            "extension": ".D_",
+            "size_bytes": 3884,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/sundry.d_"
+        },
+        {
+            "name": "sundry.db",
+            "extension": ".DB",
+            "size_bytes": 3885,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/sundry.db"
+        },
+        {
+            "name": "sur.txt",
+            "extension": ".TXT",
+            "size_bytes": 40,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/sur.txt"
+        },
+        {
+            "name": "tbllock.db",
+            "extension": ".DB",
+            "size_bytes": 331,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/tbllock.db"
+        },
+        {
+            "name": "tbllock.m_",
+            "extension": ".M_",
+            "size_bytes": 331,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tbllock.m_"
+        },
+        {
+            "name": "tchart.d_",
+            "extension": ".D_",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tchart.d_"
+        },
+        {
+            "name": "tchart.db",
+            "extension": ".DB",
+            "size_bytes": 584,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/tchart.db"
+        },
+        {
+            "name": "tchreg1.d_",
+            "extension": ".D_",
+            "size_bytes": 1480,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tchreg1.d_"
+        },
+        {
+            "name": "tchreg1.db",
+            "extension": ".DB",
+            "size_bytes": 1480,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/tchreg1.db"
+        },
+        {
+            "name": "tdet.d_",
+            "extension": ".D_",
+            "size_bytes": 46326,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tdet.d_"
+        },
+        {
+            "name": "tdet.db",
+            "extension": ".DB",
+            "size_bytes": 46327,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/tdet.db"
+        },
+        {
+            "name": "tgcode.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tgcode.d_"
+        },
+        {
+            "name": "tgcode.db",
+            "extension": ".DB",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/tgcode.db"
+        },
+        {
+            "name": "TGD1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/TGD1.BAK"
+        },
+        {
+            "name": "TGD1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/TGD1.BAK"
+        },
+        {
+            "name": "tgd1.d_",
+            "extension": ".D_",
+            "size_bytes": 2408,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tgd1.d_"
+        },
+        {
+            "name": "TGD1.DB",
+            "extension": ".DB",
+            "size_bytes": 811003,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/TGD1.DB"
+        },
+        {
+            "name": "tggen1.d_",
+            "extension": ".D_",
+            "size_bytes": 3336,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tggen1.d_"
+        },
+        {
+            "name": "tggen1.db",
+            "extension": ".DB",
+            "size_bytes": 3336,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/tggen1.db"
+        },
+        {
+            "name": "TGM1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 6056,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/TGM1.BAK"
+        },
+        {
+            "name": "TGM1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 6056,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/TGM1.BAK"
+        },
+        {
+            "name": "tgm1.d_",
+            "extension": ".D_",
+            "size_bytes": 6056,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tgm1.d_"
+        },
+        {
+            "name": "TGM1.DB",
+            "extension": ".DB",
+            "size_bytes": 5277644,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/TGM1.DB"
+        },
+        {
+            "name": "tgmail.db_",
+            "extension": ".DB_",
+            "size_bytes": 8200,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tgmail.db_"
+        },
+        {
+            "name": "timetab.d_",
+            "extension": ".D_",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/timetab.d_"
+        },
+        {
+            "name": "timetab.db",
+            "extension": ".DB",
+            "size_bytes": 488,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/timetab.db"
+        },
+        {
+            "name": "tmptgno.d_",
+            "extension": ".D_",
+            "size_bytes": 552,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tmptgno.d_"
+        },
+        {
+            "name": "TMPTGNO.DB",
+            "extension": ".DB",
+            "size_bytes": 3327,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/TMPTGNO.DB"
+        },
+        {
+            "name": "todolist.d_",
+            "extension": ".D_",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/todolist.d_"
+        },
+        {
+            "name": "todolist.db",
+            "extension": ".DB",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/todolist.db"
+        },
+        {
+            "name": "tprint.d_",
+            "extension": ".D_",
+            "size_bytes": 20590,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tprint.d_"
+        },
+        {
+            "name": "tprint.db",
+            "extension": ".DB",
+            "size_bytes": 20591,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/tprint.db"
+        },
+        {
+            "name": "TRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/TRAN1.BAK"
+        },
+        {
+            "name": "TRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/TRAN1.BAK"
+        },
+        {
+            "name": "tran1.d_",
+            "extension": ".D_",
+            "size_bytes": 8424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tran1.d_"
+        },
+        {
+            "name": "TRAN1.DB",
+            "extension": ".DB",
+            "size_bytes": 3547545,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/TRAN1.DB"
+        },
+        {
+            "name": "TREE1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 968,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/TREE1.BAK"
+        },
+        {
+            "name": "TREE1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 968,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/TREE1.BAK"
+        },
+        {
+            "name": "tree1.d_",
+            "extension": ".D_",
+            "size_bytes": 968,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/tree1.d_"
+        },
+        {
+            "name": "TREE1.db",
+            "extension": ".DB",
+            "size_bytes": 968,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/TREE1.db"
+        },
+        {
+            "name": "unitconv.d_",
+            "extension": ".D_",
+            "size_bytes": 582,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/unitconv.d_"
+        },
+        {
+            "name": "unitconv.db",
+            "extension": ".DB",
+            "size_bytes": 583,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/unitconv.db"
+        },
+        {
+            "name": "units.d_",
+            "extension": ".D_",
+            "size_bytes": 746,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/units.d_"
+        },
+        {
+            "name": "units.db",
+            "extension": ".DB",
+            "size_bytes": 747,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/units.db"
+        },
+        {
+            "name": "url.txt",
+            "extension": ".TXT",
+            "size_bytes": 54,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/url.txt"
+        },
+        {
+            "name": "user.lg",
+            "extension": ".LG",
+            "size_bytes": 328,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/user.lg"
+        },
+        {
+            "name": "user1.lg",
+            "extension": ".LG",
+            "size_bytes": 328,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/user1.lg"
+        },
+        {
+            "name": "userlog.d_",
+            "extension": ".D_",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/userlog.d_"
+        },
+        {
+            "name": "userlog.db",
+            "extension": ".DB",
+            "size_bytes": 424,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/userlog.db"
+        },
+        {
+            "name": "vatconf.db",
+            "extension": ".DB",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/vatconf.db"
+        },
+        {
+            "name": "vatconf.m_",
+            "extension": ".M_",
+            "size_bytes": 744,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vatconf.m_"
+        },
+        {
+            "name": "vatret.db",
+            "extension": ".DB",
+            "size_bytes": 246805,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/vatret.db"
+        },
+        {
+            "name": "vatret.m_",
+            "extension": ".M_",
+            "size_bytes": 246804,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vatret.m_"
+        },
+        {
+            "name": "vertmp.abc",
+            "extension": ".ABC",
+            "size_bytes": 6017,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vertmp.abc"
+        },
+        {
+            "name": "vertmp.abc",
+            "extension": ".ABC",
+            "size_bytes": 6050,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/vertmp.abc"
+        },
+        {
+            "name": "vertmp.BAK",
+            "extension": ".BAK",
+            "size_bytes": 5965,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vertmp.BAK"
+        },
+        {
+            "name": "vertmp.BAK",
+            "extension": ".BAK",
+            "size_bytes": 6017,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/vertmp.BAK"
+        },
+        {
+            "name": "vfp9enu.dll",
+            "extension": ".DLL",
+            "size_bytes": 1507328,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vfp9enu.dll"
+        },
+        {
+            "name": "vfp9r.dll",
+            "extension": ".DLL",
+            "size_bytes": 4722688,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vfp9r.dll"
+        },
+        {
+            "name": "vfp9renu.dll",
+            "extension": ".DLL",
+            "size_bytes": 1187840,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vfp9renu.dll"
+        },
+        {
+            "name": "village.d_",
+            "extension": ".D_",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/village.d_"
+        },
+        {
+            "name": "village.db",
+            "extension": ".DB",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/village.db"
+        },
+        {
+            "name": "VOU1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/VOU1.BAK"
+        },
+        {
+            "name": "VOU1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/VOU1.BAK"
+        },
+        {
+            "name": "vou1.d_",
+            "extension": ".D_",
+            "size_bytes": 808,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vou1.d_"
+        },
+        {
+            "name": "VOU1.DB",
+            "extension": ".DB",
+            "size_bytes": 34857,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/VOU1.DB"
+        },
+        {
+            "name": "vretvar.d_",
+            "extension": ".D_",
+            "size_bytes": 3802,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vretvar.d_"
+        },
+        {
+            "name": "vretvar.db",
+            "extension": ".DB",
+            "size_bytes": 3803,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/vretvar.db"
+        },
+        {
+            "name": "vtype.d_",
+            "extension": ".D_",
+            "size_bytes": 8106,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vtype.d_"
+        },
+        {
+            "name": "vtype.db",
+            "extension": ".DB",
+            "size_bytes": 8106,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/vtype.db"
+        },
+        {
+            "name": "VVONO1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/VVONO1.BAK"
+        },
+        {
+            "name": "VVONO1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/VVONO1.BAK"
+        },
+        {
+            "name": "vvono1.d_",
+            "extension": ".D_",
+            "size_bytes": 392,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/vvono1.d_"
+        },
+        {
+            "name": "VVONO1.DB",
+            "extension": ".DB",
+            "size_bytes": 5510,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/VVONO1.DB"
+        },
+        {
+            "name": "w39l.ttf",
+            "extension": ".TTF",
+            "size_bytes": 29380,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/w39l.ttf"
+        },
+        {
+            "name": "w39l.ttf",
+            "extension": ".TTF",
+            "size_bytes": 29380,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/w39l.ttf"
+        },
+        {
+            "name": "w39lc.ttf",
+            "extension": ".TTF",
+            "size_bytes": 40492,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/w39lc.ttf"
+        },
+        {
+            "name": "w39lc.ttf",
+            "extension": ".TTF",
+            "size_bytes": 40492,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/w39lc.ttf"
+        },
+        {
+            "name": "w39m.ttf",
+            "extension": ".TTF",
+            "size_bytes": 29356,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/w39m.ttf"
+        },
+        {
+            "name": "w39m.ttf",
+            "extension": ".TTF",
+            "size_bytes": 29356,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/w39m.ttf"
+        },
+        {
+            "name": "whatsapp.exe",
+            "extension": ".EXE",
+            "size_bytes": 4608,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/whatsapp.exe"
+        },
+        {
+            "name": "WTRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1512,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/WTRAN1.BAK"
+        },
+        {
+            "name": "WTRAN1.BAK",
+            "extension": ".BAK",
+            "size_bytes": 1512,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/WTRAN1.BAK"
+        },
+        {
+            "name": "wtran1.d_",
+            "extension": ".D_",
+            "size_bytes": 1512,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/wtran1.d_"
+        },
+        {
+            "name": "WTRAN1.db",
+            "extension": ".DB",
+            "size_bytes": 1512,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/WTRAN1.db"
+        },
+        {
+            "name": "xlexp.db",
+            "extension": ".DB",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/1001/xlexp.db"
+        },
+        {
+            "name": "xlexp.m_",
+            "extension": ".M_",
+            "size_bytes": 456,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/xlexp.m_"
+        },
+        {
+            "name": "xzip.dll",
+            "extension": ".DLL",
+            "size_bytes": 141072,
+            "path": "/Users/gokulgautham/foxconverterAgent/jwerp/xzip.dll"
+        }
+    ]
+}

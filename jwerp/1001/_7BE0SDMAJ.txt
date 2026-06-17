@@ -1,0 +1,15 @@
+
+C_CHKDATE                                                Priv                              D             03/11/2025  fi
+C_VOUDATE                                                Priv                              D               /  /      fi
+C_MAXDATE                                                Priv                              D             03/11/2025  fi
+C_GIRVI                                                  Priv                              N             2                                                        (              2.00000000)  fi
+C_BULLION                                                Priv                              N             2                                                        (              2.00000000)  fi
+C_JOBNO                                                  Priv                              N             2                                                        (              2.00000000)  fi
+C_RAPARATE                                               Priv                              N             2                                                        (              2.00000000)  fi
+C_DIAASSORT
+                                                         Priv                              N             2                                                        (              2.00000000)  fi
+C_MEMID                                                  Priv                              N             2                                                        (              2.00000000)  fi
+C_OLOCK                                                  Priv                              N             0                                                        (              0.00000000)  fi
+C_MCURR                                                  Priv                              N             2                                                        (              2.00000000)  fi
+C_VTMP                                                   Priv                              N             8                                                        (              8.00000000)  fi
+C_SWID                                                   Priv                              C             "JE19170     "  fi
